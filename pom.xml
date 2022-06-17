@@ -5,4 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Kafka Beginner Courses</name>
   <description>Kafka Beginner Course Udemy No Archtype Maven Project</description>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>kafka-basics</module>
+  </modules>
 </project>
